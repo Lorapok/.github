@@ -1,218 +1,158 @@
-<p align="center">
-  <img src="https://lorapok.github.io/assets/lorapok-badge.png" width="160" alt="Lorapok Larve">
-</p>
+<div align="center">
 
-<h1 align="center">LORAPOK LABS</h1>
-
-<p align="center">
-  <b><code>OPEN_SOURCE_PRODUCTS_THAT_FEEL_ALIVE</code></b>
-</p>
-
-<p align="center">
-  <a href="https://lorapok.github.io/">🌐 Portal</a> •
-  <a href="https://github.com/lorapok">💻 Source</a> •
-  <a href="https://discord.gg/MAAxFuyTen">🤖 Neural Link</a> •
-  <a href="https://www.buymeacoffee.com/lorapok">⚡ Power</a>
-</p>
-
-* * *
-
-## ◈ ORGANIZATION MATRIX
+<br/>
 
 ```
-DESIGNATION  : Lorapok Labs
-ALIAS        : Lorapok
-TYPE         : Open-Source Product Ecosystem
-ORIGIN       : Dhaka, Bangladesh
-FOCUS        : Biological UI · Sensory Computing · Open Engineering
-STATUS       : [ ACTIVE ]
-MISSION      : Blending biological UI, sensory computing, and practical
-               engineering into products that feel fast, intuitive, and alive.
+██╗      ██████╗ ██████╗  █████╗ ██████╗  ██████╗ ██╗  ██╗
+██║     ██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║ ██╔╝
+██║     ██║   ██║██████╔╝███████║██████╔╝██║   ██║█████╔╝
+██║     ██║   ██║██╔══██╗██╔══██║██╔═══╝ ██║   ██║██╔═██╗
+███████╗╚██████╔╝██║  ██║██║  ██║██║     ╚██████╔╝██║  ██╗
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝
+                    L  A  B  S
 ```
 
-* * *
+### `> Open-source products that feel alive.`
 
-## ◈ CORE PHILOSOPHY — OPERATING SYSTEM
+<br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🫀 BIOLOGICAL_UI                                                           │
-│  ─────────────────────────────────────────────────────────────────────────  │
-│  Interfaces with pulse. Visual systems use depth, signal, and organic       │
-│  rhythm so software feels responsive instead of static.                     │
-│                                                                             │
-│  ⚡ SENSORY_COMPUTING                                                       │
-│  ─────────────────────────────────────────────────────────────────────────  │
-│  Fast feedback loops. Products prioritize latency, clarity, and direct      │
-│  interaction so users can feel what the system is doing.                    │
-│                                                                             │
-│  🔧 OPEN_ENGINEERING                                                        │
-│  ─────────────────────────────────────────────────────────────────────────  │
-│  Readable by default. Projects ship with practical docs, public repos,      │
-│  and simple paths for people to learn, fork, and extend.                    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+[![Website](https://img.shields.io/badge/🌐_lorapok.github.io-Visit_Us-0d1117?style=for-the-badge&labelColor=00f5ff&color=0d1117)](https://lorapok.github.io/)
+&nbsp;
+[![GitHub Org](https://img.shields.io/badge/GitHub-Lorapok-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/Lorapok)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117)
 
-* * *
+<br/>
 
-## ◈ ECOSYSTEM TELEMETRY
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/14+-00C853?style=for-the-badge&logo=github&logoColor=white" alt="14+">
-  <img src="https://img.shields.io/badge/7-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="7">
-  <img src="https://img.shields.io/badge/100%25-FF6D00?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="100%">
-</p>
+</div>
 
-<p align="center">
-  <b>CURATED PROJECTS</b> • <b>FEATURED PRODUCTS</b> • <b>OPEN SOURCE</b>
-</p>
-
-* * *
-
-## ◈ PRODUCT ARCHIVES — MISSION LOG
-
-> Spanning AI agents, local LLMs, media engines, language input, local-first communication, and Laravel tooling.
-
-* * *
-
-### 🧬 FEATURED PRODUCT SECTOR
-
-| Product | Tech | Links | Description |
-|---------|------|-------|-------------|
-| 🔍 Lorapok API Atlas | TypeScript | 🌐 Web · 💻 GitHub | Polished atlas for discovering public APIs and open data sources with a fast, searchable interface. |
-| 🎵 Lorapok Media Player | TypeScript | 🌐 Web · 💻 GitHub | Desktop-grade media player built for low-latency playback, high-fidelity control, and sensory UI aesthetics. |
-| ⌨️ Lorapok Keyboard | Kotlin | 🌐 Web · 💻 GitHub | Android Bengali keyboard with phonetic typing, context-aware prediction, and large vocabulary engine. |
-| 🤖 Lorapok AI Agent | JavaScript | 💻 GitHub | Terminal-first AI coding agent that plans, executes, verifies, and deploys. |
-| 🔒 Lorapok LocalSync | JavaScript | 🌐 Web · 💻 GitHub | Privacy-focused communication over local router network without external servers. |
-| 🧠 Dynamic Ollama LLM Chat | Python | 🌐 Web · 💻 GitHub | Complete setup for running local models with Ollama, API access, VS Code workflows, and dynamic console UI. |
-| 🐘 Laravel Execution Monitor | PHP | 🌐 Web · 💻 GitHub | Zero-config Laravel performance monitor for tracking runtime behavior. |
-
-* * *
-
-### 🌍 EXTENDED CATALOG SECTOR
-
-| Project | Tech | Links | Description |
-|---------|------|-------|-------------|
-| 🃏 Hazari Scoreboard | HTML | 🌐 Live · 💻 GitHub | Glassmorphism scoreboard for four-player Hazari card game sessions. |
-| 📝 Linpad | Python | 🌐 Web · 💻 GitHub | Lightweight Ubuntu text editor with syntax highlighting and themes. |
-| 🔤 SubtitleMaster Chrome | JavaScript | 💻 GitHub | Subtitle search and download extension using OpenSubtitles API. |
-| 🐧 Linux File Replacer | Shell | 💻 GitHub | Zenity and Bash utility for switching Laravel database configs. |
-| ⬇️ xsnap Media Downloader | JavaScript | 💻 GitHub | Media capture and download utility. |
-| 🎟️ Spotlight Tickets | PHP | 💻 GitHub | Ticketing and event workflow management platform. |
-| 🪟 Lorapok Windows Activator | — | 🌐 Web · 💻 GitHub | Windows utility reference catalog. |
-
-* * *
-
-## ◈ ONBOARDING PROTOCOL
+## `$ cat /etc/lorapok/identity`
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  NEW OPERATIVE? START HERE:                                                 │
-│                                                                             │
-│  🧑‍💻 DEVELOPER       →  Clone API Atlas or AI Agent. Explore the codebase.   │
-│  🎨 DESIGNER         →  Study Media Player's biological UI patterns.         │
-│  🔒 PRIVACY_ADVOCATE →  Deploy LocalSync on your local network.              │
-│  🐘 LARAVEL_DEV      →  Install Execution Monitor via Composer.              │
-│  ⌨️  BENGALI_SPEAKER  →  Try Lorapok Keyboard on Android.                    │
-│  🤖 AI_RESEARCHER    →  Run Dynamic Ollama Chat with your local models.      │
-└─────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ORGANIZATION  : Lorapok Labs                               ║
+║   FOUNDED BY    : Mohammad Maizied Hasan Majumder            ║
+║   BASE          : Dhaka, Bangladesh                          ║
+║   MISSION       : Craft open-source software that doesn't    ║
+║                   just work — it feels alive.                ║
+║   DOMAIN        : lorapok.github.io                          ║
+║   STATUS        : [ ACTIVE · BUILDING · SHIPPING ]           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-* * *
+> We build tools for developers, creators, and everyday users — from AI agents to media players, browser extensions to Laravel packages. Everything we ship is crafted with precision and released to the world, free and open.
 
-## ◈ CONTRIBUTION MATRIX
+<br/>
+
+---
+
+## `$ ls ./products --long`
+
+### 🎵 Media & Entertainment
+
+| Project | Platform | Description |
+|:--------|:--------:|:------------|
+| [**Lorapok Media Player**](https://github.com/Maijied/Lorapok_Media_Player) | Web · Win · Mac · Linux | Cross-platform media player with a full CI/CD multi-target pipeline |
+
+### 🤖 AI & Intelligence
+
+| Project | Status | Description |
+|:--------|:------:|:------------|
+| [**Lorapok AI Agent**](https://github.com/Maijied/Lorapok_AI_Agent) | 🔴 Active Dev | AI-powered coding agent |
+| [**Lorapok Dynamic Ollama LLM Chat**](https://maijied.github.io/Lorapok-Dynamic-Ollama-LLM-Chat-Interface/) | ✅ Live | Dynamic chat interface for local Ollama LLM models |
+| [**Lorapok Keyboard**](https://maijied.github.io/Lorapok-Keyboard/) | ✅ Live | Bangla NLP AI-based keyboard |
+
+### 🛠️ Developer Tools
+
+| Project | Links | Description |
+|:--------|:-----:|:------------|
+| [**Laravel Execution Monitor**](https://github.com/Maijied/lorapok) | [Packagist](https://packagist.org/packages/lorapok/laravel-execution-monitor) · [Web](https://maijied.github.io/lorapok/) | Real-time execution monitoring package for Laravel |
+| [**Lorapok LocalSync**](https://maijied.github.io/Lorapok-LocalSync/) | [Web](https://maijied.github.io/Lorapok-LocalSync/) | Local file sync utility |
+
+### 🌐 Browser Extensions
+
+| Project | Browser | Description |
+|:--------|:-------:|:------------|
+| [**XSnap Media Downloader**](https://github.com/Maijied/xsnap-media-downloader_Opera) | Opera · Firefox | Browser addon for media downloading |
+| [**SubtitleMaster**](https://github.com/Maijied/SubtitleMaster-Chrome) | Chrome · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subtitle-master/) | Subtitle downloader extension |
+
+<br/>
+
+---
+
+## `$ lscpu ./tech-stack`
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+<br/>
+
+---
+
+## `$ cat ./philosophy.txt`
 
 ```bash
-# 1. FORK THE REPOSITORY
-# 2. INITIALIZE LOCAL ENVIRONMENT
-git clone https://github.com/YOUR_USERNAME/lorapok-repo.git
-cd lorapok-repo
+$ echo $LORAPOK_PHILOSOPHY
 
-# 3. CREATE FEATURE BRANCH
-git checkout -b feature/amazing-feature
+  We don't build software to fill a feature checklist.
+  We build things we'd want to use ourselves —
+  tools that are fast, honest, and feel handcrafted.
 
-# 4. COMMIT CHANGES
-git commit -m "feat: add amazing feature to biological UI"
-
-# 5. DEPLOY PULL REQUEST
-git push origin feature/amazing-feature
+  Open source isn't a license type. It's a commitment.
+  Every repo we ship is a promise to the community:
+  > fork it, break it, improve it, ship it.
 ```
 
-> 💡 **First-time contributor?** Scan for [`good first issue`](https://github.com/search?q=org%3Alorapok+label%3A%22good+first+issue%22&type=issues) tags across the ecosystem.
+<br/>
 
-* * *
+---
 
-## ◈ FOUNDER — COMMAND NODE
+## `$ ping --connect lorapok.github.io`
 
-<p align="center">
-  <img src="https://gravatar.com/avatar/lorapok?s=200" width="100" style="border-radius: 50%; border: 2px solid #00FF80;">
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Mohammad Maizied Hasan Majumder</b><br>
-  Senior Software Engineer @ Shohoz
-</p>
+<br/>
 
-```
-LOCATION     : Dhaka, Bangladesh
-ROLE         : Full Stack Engineer · Open-Source Product Builder
-MISSION      : Building premium digital products with performance,
-               precision, and modern technology at the core.
-```
+[![Website](https://img.shields.io/badge/🌐_Website-lorapok.github.io-00f5ff?style=for-the-badge&labelColor=0d1117&color=0d1117)](https://lorapok.github.io/)
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/lorapok">☕ Power Source</a> •
-  <a href="mailto:lorapokdev@gmail.com">📡 Signal: lorapokdev@gmail.com</a>
-</p>
+<br/>
 
-* * *
-
-## ◈ SIGNAL CHANNELS
-
-| Channel | Frequency | Purpose |
-|---------|-----------|---------|
-| 🌐 Portal | [lorapok.github.io](https://lorapok.github.io/) | Product demos, documentation, live previews |
-| 💻 Source | [github.com/lorapok](https://github.com/lorapok) | Repository access, issues, pull requests |
-| 🤖 Neural Link | [Discord](https://discord.gg/MAAxFuyTen) | Real-time community support, dev discussions |
-| ⚡ Power Grid | [Buy Me a Coffee](https://www.buymeacoffee.com/lorapok) | Ecosystem funding, creator sustainability |
-
-* * *
-
-## ◈ POWER PROTOCOL
-
-> *"The best contributions happen when the creator has space to create freely."*
-
-Every open-source project, guide, and release requires focused engineering hours. Your support maintains the momentum.
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/lorapok">
-    <img src="https://img.shields.io/badge/⚡_SUSTAIN_ECOSYSTEM-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Sustain">
-  </a>
-</p>
-
-* * *
-
-## ◈ LICENSE — OPEN PROTOCOL
-
-All Lorapok projects are open-source. Individual repositories contain their respective license files (typically **MIT** or **GPL**).
-
-* * *
-
-<p align="center">
-  <b><a href="https://lorapok.github.io/">LORAPOK.GITHUB.IO</a></b>
-</p>
+---
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║  OPEN_SOURCE_PRODUCTS_THAT_FEEL_ALIVE                             ║
-║                                                                   ║
-║  "Software should feel like a sensory product surface:            ║
-║   visible signals, immediate feedback, and real utility           ║
-║   under the glow."                                                ║
-║                      — Lorapok Labs                               ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "Open-source products that feel alive."                     ║
+║                                  — Lorapok Labs              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <img src="https://lorapok.github.io/assets/lorapok-badge.png" width="40" alt="Larve">
-</p>
+<sub>© 2026 Lorapok Labs · Dhaka, Bangladesh · Built with ❤️ and open code</sub>
+
+<br/>
+
+</div>
