@@ -1,14 +1,13 @@
-
-readme_content = """<div align="center">
+<div align="center">
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/206638527?s=200&v=4" width="140" style="border-radius: 24px; filter: drop-shadow(0 0 20px rgba(0,255,128,0.3));">
+<img src="https://lorapok.github.io/assets/lorapok-badge.png" width="160" style="border-radius: 24px; filter: drop-shadow(0 0 24px rgba(0,255,128,0.4));">
 
 <br><br>
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Frog.png" width="40" height="40" />
+  <img src="https://lorapok.github.io/assets/lorapok-badge.png" width="36" height="36" style="border-radius: 8px; vertical-align: middle;">
   LORAPOK LABS
 </h1>
 
@@ -238,12 +237,9 @@ All Lorapok projects are open-source. Individual repositories contain their resp
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Frog.png" width="30" height="30" />
+<img src="https://lorapok.github.io/assets/lorapok-badge.png" width="40" style="border-radius: 8px;">
 
 </div>
-"""
+ojis/Animals/Frog.png" width="30" height="30" />
 
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("Ultra-professional README created successfully!")
+</div>
