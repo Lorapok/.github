@@ -19,14 +19,14 @@
 
 <br/>
 
-<!-- BADGES ROW -->
-[![Website](https://img.shields.io/badge/🌐_lorapok.github.io-Visit_Us-0d1117?style=for-the-badge&labelColor=00f5ff&color=0d1117)](https://lorapok.github.io/)
+<!-- BADGES ROW — fixed for dark background visibility -->
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-lorapok.github.io-black?style=for-the-badge&labelColor=00c8d7&color=006b7a)](https://lorapok.github.io/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Lorapok-181717?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Lorapok)
+[![GitHub](https://img.shields.io/badge/GITHUB-Lorapok-black?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=238636&color=1a5228)](https://github.com/Lorapok)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-black?style=for-the-badge&labelColor=1f6feb&color=0d419d)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Lorapok&style=for-the-badge&color=00f5ff&label=ORG+VISITS)](https://github.com/Lorapok)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lorapok&style=for-the-badge&color=9e6bdb&label=ORG+VISITS)](https://github.com/Lorapok)
 
 </div>
 
@@ -112,19 +112,16 @@
 
 <div align="center">
 
-<!-- GITHUB STATS + TOP LANGS SIDE BY SIDE -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maijied&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maijied&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
 
 <br/><br/>
 
-<!-- STREAK STATS -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maijied&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/Maijied)
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maijied&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff)](https://github.com/Maijied)
 
 </div>
@@ -153,7 +150,7 @@ $ echo $LORAPOK_PHILOSOPHY
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-lorapok.github.io-00f5ff?style=for-the-badge&labelColor=0d1117&color=0d1117)](https://lorapok.github.io/)
+[![Website](https://img.shields.io/badge/🌐_VISIT_US-lorapok.github.io-black?style=for-the-badge&labelColor=00c8d7&color=006b7a)](https://lorapok.github.io/)
 
 <br/>
 
