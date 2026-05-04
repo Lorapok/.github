@@ -82,29 +82,36 @@
 
 ## `$ lscpu ./tech-stack`
 
-**Languages**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="160">
+      <b>⌨️&nbsp;&nbsp;Languages</b>
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=php,js,py,java,cs,arduino&theme=dark&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🔧&nbsp;&nbsp;Frameworks</b>
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,unity,androidstudio&theme=dark&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🗄️&nbsp;&nbsp;Tools & DB</b>
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mysql,git,blender,github,vscode,linux&theme=dark&perline=8" />
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Platforms**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+</div>
 
 ---
 
@@ -112,16 +119,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maijied&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maijied&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+<!-- ROW 1: Full-width commit history timeline -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maijied&theme=github_dark" />
+
+<br/>
+
+<!-- ROW 2: Three stat cards side by side -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maijied&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maijied&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maijied&theme=github_dark" />
 
 <br/><br/>
 
+<!-- ROW 3: Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maijied&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/Maijied)
 
 <br/>
 
+<!-- ROW 4: Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maijied&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff)](https://github.com/Maijied)
 
 </div>
