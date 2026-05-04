@@ -1,32 +1,36 @@
+<!-- CAPSULE RENDER TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=120&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<br/>
-
+<!-- ASCII LOGO -->
 ```
 ██╗      ██████╗ ██████╗  █████╗ ██████╗  ██████╗ ██╗  ██╗
 ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║ ██╔╝
-██║     ██║   ██║██████╔╝███████║██████╔╝██║   ██║█████╔╝
-██║     ██║   ██║██╔══██╗██╔══██║██╔═══╝ ██║   ██║██╔═██╗
+██║     ██║   ██║██████╔╝███████║██████╔╝██║   ██║█████╔╝ 
+██║     ██║   ██║██╔══██╗██╔══██║██╔═══╝ ██║   ██║██╔═██╗ 
 ███████╗╚██████╔╝██║  ██║██║  ██║██║     ╚██████╔╝██║  ██╗
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝
-                    L  A  B  S
+                      L  A  B  S
 ```
 
-### `> Open-source products that feel alive.`
+<!-- TYPING SVG ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Open-source+products+that+feel+alive.;Building+tools+devs+actually+love.;From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+world+%F0%9F%8C%8D;AI+%7C+Mobile+%7C+Web+%7C+IoT+%7C+Desktop)](https://lorapok.github.io/)
 
 <br/>
 
+<!-- BADGES ROW -->
 [![Website](https://img.shields.io/badge/🌐_lorapok.github.io-Visit_Us-0d1117?style=for-the-badge&labelColor=00f5ff&color=0d1117)](https://lorapok.github.io/)
 &nbsp;
-[![GitHub Org](https://img.shields.io/badge/GitHub-Lorapok-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/Lorapok)
+[![GitHub](https://img.shields.io/badge/GitHub-Lorapok-181717?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Lorapok)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
----
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Lorapok&style=for-the-badge&color=00f5ff&label=ORG+VISITS)](https://github.com/Lorapok)
 
 </div>
+
+---
 
 ## `$ cat /etc/lorapok/identity`
 
@@ -35,7 +39,7 @@
 ║                                                              ║
 ║   ORGANIZATION  : Lorapok Labs                               ║
 ║   FOUNDED BY    : Mohammad Maizied Hasan Majumder            ║
-║   BASE          : Dhaka, Bangladesh                          ║
+║   BASE          : Dhaka, Bangladesh  🇧🇩                     ║
 ║   MISSION       : Craft open-source software that doesn't    ║
 ║                   just work — it feels alive.                ║
 ║   DOMAIN        : lorapok.github.io                          ║
@@ -46,20 +50,16 @@
 
 > We build tools for developers, creators, and everyday users — from AI agents to media players, browser extensions to Laravel packages. Everything we ship is crafted with precision and released to the world, free and open.
 
-<br/>
-
 ---
 
 ## `$ ls ./products --long`
 
 ### 🎵 Media & Entertainment
-
 | Project | Platform | Description |
 |:--------|:--------:|:------------|
-| [**Lorapok Media Player**](https://github.com/Maijied/Lorapok_Media_Player) | Web · Win · Mac · Linux | Cross-platform media player with a full CI/CD multi-target pipeline |
+| [**Lorapok Media Player**](https://github.com/Maijied/Lorapok_Media_Player) | Web · Win · Mac · Linux · Snap | Cross-platform media player with full CI/CD multi-target pipeline |
 
 ### 🤖 AI & Intelligence
-
 | Project | Status | Description |
 |:--------|:------:|:------------|
 | [**Lorapok AI Agent**](https://github.com/Maijied/Lorapok_AI_Agent) | 🔴 Active Dev | AI-powered coding agent |
@@ -67,20 +67,16 @@
 | [**Lorapok Keyboard**](https://maijied.github.io/Lorapok-Keyboard/) | ✅ Live | Bangla NLP AI-based keyboard |
 
 ### 🛠️ Developer Tools
-
 | Project | Links | Description |
 |:--------|:-----:|:------------|
 | [**Laravel Execution Monitor**](https://github.com/Maijied/lorapok) | [Packagist](https://packagist.org/packages/lorapok/laravel-execution-monitor) · [Web](https://maijied.github.io/lorapok/) | Real-time execution monitoring package for Laravel |
 | [**Lorapok LocalSync**](https://maijied.github.io/Lorapok-LocalSync/) | [Web](https://maijied.github.io/Lorapok-LocalSync/) | Local file sync utility |
 
 ### 🌐 Browser Extensions
-
 | Project | Browser | Description |
 |:--------|:-------:|:------------|
 | [**XSnap Media Downloader**](https://github.com/Maijied/xsnap-media-downloader_Opera) | Opera · Firefox | Browser addon for media downloading |
-| [**SubtitleMaster**](https://github.com/Maijied/SubtitleMaster-Chrome) | Chrome · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subtitle-master/) | Subtitle downloader extension |
-
-<br/>
+| [**SubtitleMaster**](https://github.com/Maijied/SubtitleMaster-Chrome) | [Chrome](https://github.com/Maijied/SubtitleMaster-Chrome) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subtitle-master/) | Subtitle downloader extension |
 
 ---
 
@@ -110,7 +106,28 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
+---
+
+## `$ run github-telemetry --user Maijied`
+
+<div align="center">
+
+<!-- GITHUB STATS + TOP LANGS SIDE BY SIDE -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maijied&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maijied&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maijied&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/Maijied)
+
 <br/>
+
+<!-- ACTIVITY GRAPH -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maijied&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff)](https://github.com/Maijied)
+
+</div>
 
 ---
 
@@ -128,8 +145,6 @@ $ echo $LORAPOK_PHILOSOPHY
   > fork it, break it, improve it, ship it.
 ```
 
-<br/>
-
 ---
 
 ## `$ ping --connect lorapok.github.io`
@@ -141,8 +156,6 @@ $ echo $LORAPOK_PHILOSOPHY
 [![Website](https://img.shields.io/badge/🌐_Website-lorapok.github.io-00f5ff?style=for-the-badge&labelColor=0d1117&color=0d1117)](https://lorapok.github.io/)
 
 <br/>
-
----
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -156,3 +169,6 @@ $ echo $LORAPOK_PHILOSOPHY
 <br/>
 
 </div>
+
+<!-- CAPSULE RENDER BOTTOM WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=100&section=footer" width="100%"/>
