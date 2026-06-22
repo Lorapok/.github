@@ -32,6 +32,15 @@
 
 ---
 
+---
+<div align="center">
+  <a href="[https://hadi-memoriam.vercel.app/](https://hadi-memoriam.vercel.app/)">
+    <img src="[https://raw.githubusercontent.com/Lorapok/Hadi-Memoriam/main/assets/banner.svg](https://raw.githubusercontent.com/Lorapok/Hadi-Memoriam/main/assets/banner.svg)" alt="Justice for Hadi" width="100%">
+  </a>
+</div>
+
+---
+
 ## `$ cat /etc/lorapok/identity`
 
 ```
@@ -39,7 +48,7 @@
 ║                                                              ║
 ║   ORGANIZATION  : Lorapok Labs                               ║
 ║   FOUNDED BY    : Mohammad Maizied Hasan Majumder            ║
-║   BASE          : Dhaka, Bangladesh  🇧🇩                     ║
+║   BASE          : Dhaka, Bangladesh  🇧🇩                      ║
 ║   MISSION       : Craft open-source software that doesn't    ║
 ║                   just work — it feels alive.                ║
 ║   DOMAIN        : lorapok.github.io                          ║
