@@ -35,7 +35,7 @@
 ---
 <div align="center">
   <a href="[https://hadi-memoriam.vercel.app/](https://hadi-memoriam.vercel.app/)">
-    <img src="[https://raw.githubusercontent.com/Lorapok/Hadi-Memoriam/main/assets/banner.svg](https://raw.githubusercontent.com/Lorapok/Hadi-Memoriam/main/assets/banner.svg)" alt="Justice for Hadi" width="100%">
+    <img src="https://raw.githubusercontent.com/Lorapok/Hadi-Memoriam/main/assets/banner.svg" alt="Justice for Hadi" width="100%">
   </a>
 </div>
 
