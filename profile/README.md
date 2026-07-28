@@ -20,7 +20,7 @@
 <br/>
 
 <!-- BADGES ROW — fixed for dark background visibility -->
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-lorapok.github.io-black?style=for-the-badge&labelColor=00c8d7&color=006b7a)](https://lorapok.github.io/)
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-lorapok.github.io-black?style=for-the-badge&labelColor=00c8d7&color=006b7a)](https://lorapok.tech/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-Lorapok-black?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=238636&color=1a5228)](https://github.com/Lorapok)
 &nbsp;
@@ -173,7 +173,7 @@ $ echo $LORAPOK_PHILOSOPHY
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_VISIT_US-lorapok.github.io-black?style=for-the-badge&labelColor=00c8d7&color=006b7a)](https://lorapok.github.io/)
+[![Website](https://img.shields.io/badge/🌐_VISIT_US-lorapok.github.io-black?style=for-the-badge&labelColor=00c8d7&color=006b7a)](https://lorapok.tech/)
 
 <br/>
 
